@@ -1,10 +1,10 @@
-# 💡 Dashboard de Gestão de Eficiência Energética
+ Dashboard de Gestão de Eficiência Energética
 
-Este projeto apresenta uma solução completa de análise de dados e gestão de eficiência energética, criada para rastrear e otimizar o consumo de energia ($\text{kWh}$) em um escritório. O foco está na identificação dos vilões sazonais (Ar Condicionado e Chuveiro) e no cálculo do potencial de economia.
+Este projeto apresenta uma solução completa de análise de dados e gestão de eficiência energética, criada para rastrear e otimizar o consumo de energia ($\text{kWh}$) em uma casa que tem escritorio. O foco está na identificação dos vilões sazonais (Ar Condicionado e Chuveiro) e no cálculo do potencial de economia.
 
-## 📊 1. Dados e Estrutura
+##  1. Dados e Estrutura
 
-Os dados utilizados são **simulados** com base em um cenário realista de uma Pequena Agência de Marketing Digital no clima quente do Brasil. O dataset foi estruturado para refletir a correlação direta entre temperatura e consumo (picos de AC no Verão e picos de Chuveiro no Inverno).
+Os dados utilizados são **simulados** pela IA GEMINI
 
 O arquivo de dados principal, **`dados.csv`**, está localizado na pasta `/data`.
 
@@ -39,7 +39,7 @@ Os três maiores vilões do consumo anual são o foco da otimização:
 2.  **PCs e Periféricos:** 30,83%
 3.  **Chuveiro:** 27,81%
 
-## 🎯 3. Foco nas Ações de Otimização
+##  3. Foco nas Ações de Otimização
 
 A estratégia para atingir a redução de **18,97%** é focada nas seguintes ações de custo zero/baixo:
 
