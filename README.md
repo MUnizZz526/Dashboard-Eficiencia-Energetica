@@ -29,7 +29,7 @@ A análise demonstrou que, ao implementar ações de eficiência específicas, o
 
 O impacto da otimização é visualmente demonstrado no comparativo abaixo, que ilustra a redução do consumo e o novo balanceamento da carga (o AC e o Chuveiro diminuem seu peso no total):
 
-![Comparativo de Consumo Antes e Depois da Otimização](assets/Comparativos(1).png)
+![Comparativo de Consumo Antes e Depois da Otimização](assets/Comparativos%20(1).png)
 
 ### Distribuição dos Consumidores (Situação Real)
 
