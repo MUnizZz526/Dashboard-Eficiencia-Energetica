@@ -1,4 +1,5 @@
  Dashboard de Gestão de Eficiência Energética
+ LINK PITCH: https://www.youtube.com/watch?v=J9T9Nohh4Ak
 
 Este projeto apresenta uma solução completa de análise de dados e gestão de eficiência energética, criada para rastrear e otimizar o consumo de energia ($\text{kWh}$) em uma casa que tem escritorio. O foco está na identificação dos vilões sazonais (Ar Condicionado e Chuveiro) e no cálculo do potencial de economia. Realizado pelos alunos Cauã Muniz RM566527, Bernardo RM 565776 e João Vitor Angeloti RM 563473 1CCPI
 
